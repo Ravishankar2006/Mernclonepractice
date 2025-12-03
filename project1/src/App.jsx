@@ -1,9 +1,8 @@
-import "./App.css";
-import HelloWorldComponent from "./hello-world/hello-world-component";
+import LandingPage from "./pages/LandingPage";
 
 function App() {
   return (
-    <HelloWorldComponent/>
+    <LandingPage/>
   );
 }
 
